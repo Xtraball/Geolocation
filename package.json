@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-geolocation",
+  "name": "Geolocation",
   "version": "4.0.1",
-  "description": "Cordova Geolocation Plugin",
+  "description": "Cordova Geolocation",
   "cordova": {
-    "id": "cordova-plugin-geolocation",
+    "id": "Geolocation",
     "platforms": [
       "android",
       "ios",
