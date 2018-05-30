@@ -44,7 +44,7 @@ xmlns:android="http://schemas.android.com/apk/res/android"
             <uses-feature android:name="android.hardware.location.gps" android:required="false" />
         </config-file>
 
-        <config-file target="app/src/main/res/xml/config.xml" parent="/*">
+        <config-file target="config.xml" parent="/*">
           <feature name="Geolocation">
               <param name="android-package" value="org.apache.cordova.geolocation.Geolocation" />
           </feature>
